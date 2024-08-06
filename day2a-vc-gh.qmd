@@ -3,6 +3,8 @@ title: "GitHub Practice"
 author: "Tom Gibbens-Matsuyama"
 format: html
 editor: visual
+editor_options: 
+  chunk_output_type: console
 ---
 
 ## Quarto
